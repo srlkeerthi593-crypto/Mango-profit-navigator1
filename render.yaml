@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: mango-dashboard
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    
