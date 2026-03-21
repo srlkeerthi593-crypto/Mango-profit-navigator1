@@ -1,0 +1,100 @@
+place,lat,long,market,revenue_type,yesterday_price(rs/kg),today_price(rs/kg)
+Tirupati APMC (RC Road),13.6231,79.4125,Government,Tirupati,34,29
+Pakala Main Mango APMC,13.4568,79.1174,Government,Tirupati,32,27
+Railway Kodur APMC Yard,13.9515,79.3514,Government,Tirupati,33,28
+Puttur Mango Market Yard,13.4428,79.5531,Government,Tirupati,31,26
+Chandragiri APMC,13.5828,79.3142,Government,Tirupati,30,25
+Srikalahasti APMC,13.7498,79.7034,Government,Srikalahasti,35,30
+Venkatagiri APMC,13.9575,79.5847,Government,Srikalahasti,33,28
+Nagalapuram APMC,13.3985,79.7915,Government,Srikalahasti,32,27
+Naidupeta APMC,13.9142,79.8944,Government,Sullurpeta,34,29
+Satyavedu APMC,13.5076,79.9715,Government,Sullurpeta,31,26
+Sullurpeta APMC,13.7008,80.0211,Government,Sullurpeta,30,25
+Korlagunta Mango Mandi,13.6392,79.4261,Private,Tirupati,29,24
+Naidumma Mango Mandi,13.63,79.42,Private,Tirupati,28,23
+Damalacheruvu Mandi Street,13.5042,79.0833,Private,Tirupati,30,24
+N R K Mango Market,13.4985,79.0912,Private,Tirupati,31,25
+Balayapalli Seasonal Point,14.0854,79.6642,Seasonal,Srikalahasti,27,22
+Dakkili Loading Yard,14.1285,79.7645,Seasonal,Srikalahasti,26,21
+K.V.B. Puram Collection Hub,13.6167,79.7333,Seasonal,Srikalahasti,28,23
+Yerpedu Main Road Yard,13.6822,79.5844,Seasonal,Srikalahasti,29,24
+Thottambedu Loading Center,13.7667,79.7667,Seasonal,Srikalahasti,27,22
+Pichatur Junction Point,13.475,79.8333,Seasonal,Srikalahasti,26,21
+B.N. Kandriga Seasonal Mandi,13.6833,79.8833,Seasonal,Sullurpeta,28,23
+Tada Highway Collection Point,13.5785,80.0232,Seasonal,Sullurpeta,30,25
+Vakadu Trading Center,14.0097,80.1005,Seasonal,Sullurpeta,29,24
+Ozili Seasonal Center,14.0167,79.8667,Seasonal,Sullurpeta,27,22
+Chittamur Loading Point,14.0,80.0167,Seasonal,Sullurpeta,28,23
+Varadaiahpalem Market Hub,13.5833,79.9167,Seasonal,Sullurpeta,30,25
+Bhakarapet (C.Gottigallu),13.638,79.112,Seasonal,Tirupati,31,26
+Chitvel Collection Point,14.1833,79.35,Seasonal,Tirupati,29,24
+Obulavaripalle Loading Yard,14.05,79.3333,Seasonal,Tirupati,28,23
+Yerravaripalem Fruit Hub,13.7333,79.0833,Seasonal,Tirupati,30,25
+Vadamalapeta Point,13.5667,79.5167,Seasonal,Tirupati,29,24
+Bangarupalem,13.2,78.9333,Major APMC + Private + Seasonal,State Government / Private,42,34
+Chittoor,13.2172,79.1003,District APMC + Private + Seasonal,State Government / Private,39,36
+Punganur,13.3667,78.5667,APMC + Private + Seasonal,State Government / Private,36,29
+Kuppam,12.75,78.35,APMC + Private + Seasonal,State Government / Private,33,31
+Irala,13.2667,78.7,Sub-yard + Private + Seasonal,State Government / Private,40,33
+Sodum (Sadum),13.3833,78.8333,Sub-yard + Private + Seasonal,State Government / Private,35,31
+Dhamalacheruvu,13.15,79.0167,Collection Point + Seasonal,Private,37,28
+Pakala,13.4667,79.1167,APMC + Private + Seasonal,State Government / Private,41,37
+Somala,13.45,78.8,Collection Point + Seasonal,Private,30,22
+Bakarapeta,13.3167,78.7833,Collection Point + Seasonal,Private,32,27
+Yerravaripalem,13.6333,79.1667,Collection Point + Seasonal,Private,38,33
+Pileru,13.65,78.95,APMC + Private + Seasonal,State Government / Private,39,34
+Puttur,13.4419,79.553,APMC + Private + Seasonal,State Government / Private,44,41
+Thavanampalle,13.2333,79.05,Collection Point + Seasonal,Private,29,24
+Kalikiri,13.55,78.75,APMC + Private + Seasonal,State Government / Private,40,32
+Nagari,13.3214,79.5856,APMC + Private + Seasonal,State Government / Private,35,29
+Vepanjeri,13.2667,79.0667,Collection Point + Seasonal,Private,36,32
+Chowdepalle Yard,13.4116,78.6148,Wholesale Trade (Industrial),Madanapalle,45,36
+Angallu Mango Mandi,13.6214,78.461,Private Commission Auction,Madanapalle,33,31
+Mudivedu Junction,13.694,78.512,Transit Trading/Auction,Madanapalle,38,32
+Basinikonda Yard,13.6315,78.482,Private Export Bidding,Madanapalle,41,37
+CTM Road Cluster,13.582,78.502,Private CA Wholesale,Madanapalle,42,34
+Devalampet Mandi,13.6305,78.4505,Private Trade Cluster,Madanapalle,34,25
+Kadiri Road CA Row,13.612,78.4725,Concentrated CA Row,Madanapalle,31,29
+Madanapalle AMC (Main),13.6114,78.4716,Primary District Auction,Madanapalle,40,33
+Nandini Private Mandi,13.5824,78.5025,Private Commission Trade,Madanapalle,39,37
+Valasapalle Pulp Yard,13.6354,78.5121,Industrial Bulk Buying,Madanapalle,36,27
+Vepulabylu Mandi,13.55,78.54,Transit Wholesale Collection,Madanapalle,38,32
+Burakayalakota Hub,13.801,78.354,Farmer Aggregation,Madanapalle,41,39
+Guttapalem Mandi,13.7885,78.3125,Seasonal Local Trading,Madanapalle,43,35
+Mulakalacheruvu e-NAM,13.788,78.312,Digital/Online Bidding,Madanapalle,32,30
+Nallacheruvu Hub,13.8541,78.2901,Inter-State Wholesale,Madanapalle,35,28
+Nimmanapalle Yard,13.5932,78.6011,Farmer Direct Trade,Madanapalle,44,38
+Peddamandyam Mandi,13.8342,78.5321,Upland Auctioning,Madanapalle,40,32
+PTN Market Yard,13.8234,78.2256,Regional Wholesale Auction,Madanapalle,37,34
+Punganur AMC Yard,13.3644,78.5804,Industrial Pulp Bidding,Madanapalle,31,25
+Ramasamudram Yard,13.4245,78.4124,Cross-Border Trade,Madanapalle,34,26
+Thamballapalle Hub,13.8445,78.3325,Wholesale Aggregation,Madanapalle,42,36
+Gurramkonda e-NAM,13.782,78.584,Premium Electronic Bidding,Pileru,45,39
+Kalakada Sub-Yard,13.7125,78.8542,Seasonal Auction Yard,Pileru,39,31
+Kalikiri Sub-Yard,13.6895,78.777,Wholesale Collection/Packing,Pileru,33,24
+K. Palle Yard,13.6744,78.9852,Seasonal Collection Point,Pileru,35,33
+Bandakindapalle Hub,13.6805,78.921,Truck-Side Load Selling,Pileru,38,29
+Chitticherla Market,13.6405,78.9805,Private Mandi Auction,Pileru,41,35
+Kallur Road Mandi,13.6045,79.0125,Commission Agency Trade,Pileru,42,33
+Pileru AMC Main Yard,13.6521,78.9395,Division-Level Auction,Pileru,30,25
+Pileru Bypass Mandi,13.654,78.941,Night Loading Wholesale,Pileru,34,28
+Pileru e-NAM Center,13.6525,78.9398,Digital Bidding Hub,Pileru,36,32
+Damalacheruvu Hub*,13.5358,79.1124,Mega Private Auction Hub,Pileru,44,35
+Sodam Fruit Yard,13.5042,78.7335,Intermediate Collection,Pileru,39,31
+Somala Market Yard,13.4358,78.7452,Collection & Sorting Bidding,Pileru,37,28
+Valmikipuram Mandi,13.6515,78.621,Wholesale/Retail Center,Pileru,41,34
+Vayalpad AMC Yard,13.6496,78.6186,Regulated Seasonal Auction,Pileru,32,30
+Chinnamandyam Yard,14.0125,78.6542,Negotiated Bulk Collection,Rayachoti,35,29
+Galiveedu Market Yard,14.1035,78.5142,Regional Wholesale Trade,Rayachoti,43,36
+Lakkireddipalli AMC,14.1685,78.7025,Wholesale Hub Auction,Rayachoti,40,32
+Guvvalacheruvu Hub,14.12,78.89,Early Arrival Pre-Auction,Rayachoti,38,34
+Ramapuram Mandi,14.1167,78.8833,Early Season Wholesale,Rayachoti,41,35
+Alimabad Fruit Street,14.0612,78.749,High-Density CA Cluster,Rayachoti,34,27
+Gani Fruit Mandi,14.061,78.7495,Commission Agent Bidding,Rayachoti,37,29
+Jamiya Mango Yard,14.0562,78.751,Largest Private Auction Yard,Rayachoti,45,38
+Kothapeta Sub-Yard,14.0595,78.755,Seasonal Town Auction,Rayachoti,39,32
+Rasanapalli Hub,14.0905,78.7205,Negotiated Bulk Purchase,Rayachoti,42,35
+Sanjeevi Nagar Yard,14.0715,78.7615,Private Wholesale Cluster,Rayachoti,33,31
+Sanjeevi Nagar Mandi,14.0712,78.7612,Local Wholesale & Retail,Rayachoti,36,28
+Sundupalli Jct Mandi,14.057,78.752,Negotiated Vendor Trade,Rayachoti,38,32
+Sambepalli Yard,13.9312,78.7562,Local Negotiated Wholesale,Rayachoti,40,33
